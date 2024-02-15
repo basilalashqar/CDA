@@ -23,9 +23,13 @@ Evaluated model performance using accuracy scores and confusion matrices.
 Libraries Used
 
 Pandas: Data manipulation and preprocessing.
+
 NumPy: Numerical computing and array manipulation.
+
 Matplotlib: Data visualization and plotting.
+
 Seaborn: Enhanced data visualization.
+
 scikit-learn: Machine learning models and evaluation metrics.
 
 Dataset:
